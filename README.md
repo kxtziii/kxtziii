@@ -22,6 +22,6 @@
 </div>
 <h1></h1>
 <p align="center" >
-  <img src='https://github-readme-stats.vercel.app/api?username=elkotziii&show_icons=true&theme=great-gatsby&hide_rank=true&hide_border=true' >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkotziii&theme=great-gatsby&hide_border=true" >
+  <img src='https://github-readme-stats.vercel.app/api?username=kxtziii&show_icons=true&theme=great-gatsby&hide_rank=true&hide_border=true' >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kxtziii&theme=great-gatsby&hide_border=true" >
 </p>
